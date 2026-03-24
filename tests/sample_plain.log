@@ -1,0 +1,6 @@
+2026-03-24T08:00:00Z DEBUG [HealthCheck] ping ok
+2026-03-24T08:01:00Z INFO [AuthService] Usuario admin autenticado
+2026-03-24T08:02:00Z WARN [Database] Conexion lenta detectada
+2026-03-24T08:03:00Z ERROR [PaymentService] Fallo al procesar pago: timeout
+2026-03-24T08:04:00Z INFO [HealthCheck] health check completado
+2026-03-24T08:05:00Z FATAL [Core] Panic en modulo de sesiones
